@@ -35,8 +35,6 @@ public class ProductServlet extends HttpServlet {
                 break;
             default:
                 break;
-
-
         }
     }
 

@@ -31,10 +31,7 @@
     <fieldset>
         <legend>Product infomation</legend>
         <table>
-      <%--      <tr>
-                <td>Id</td>
-                <td><input type="number" name="id" id="id" required></td>
-            </tr>--%>
+
             <tr>
                 <td>Name</td>
                 <td><input type="text" name="name" id="name" required></td>
